@@ -1,0 +1,9 @@
+{
+  "id": "dev.halone.ssh",
+  "name": "SSH",
+  "version": "0.2.0",
+  "description": "Terminal sessions over SSH",
+  "icon": "icon.png",
+  "window": { "width": 1100, "height": 700 },
+  "permissions": ["network.tcp"]
+}
